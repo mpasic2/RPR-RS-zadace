@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+    <stylesheets>
+        <URL value="@/css/main.css"/>
+    </stylesheets>
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Delete" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem mnemonicParsing="false" text="About" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <center>
+      <TabPane prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+        <tabs>
+          <Tab fx:id="ownersTab" text="Vlasnici">
+            <content>
+                  <GridPane>
+                     <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                     </columnConstraints>
+                     <rowConstraints>
+                        <RowConstraints maxHeight="127.0" minHeight="5.0" prefHeight="34.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="317.0" minHeight="10.0" prefHeight="312.0" vgrow="SOMETIMES" />
+                     </rowConstraints>
+                     <children>
+                        <HBox prefHeight="100.0" prefWidth="200.0">
+                           <children>
+                               <Label text="Pretraga:">
+                                 <HBox.margin>
+                                    <Insets top="5.0" />
+                                 </HBox.margin></Label>
+                               <TextField GridPane.columnIndex="1">
+                                 <HBox.margin>
+                                    <Insets left="10.0" top="5.0" />
+                                 </HBox.margin></TextField>
+                               <Button fx:id="tbAddOwner" mnemonicParsing="false" GridPane.columnIndex="2">
+                                 <HBox.margin>
+                                    <Insets left="10.0" top="5.0" />
+                                 </HBox.margin></Button>
+                               <Button fx:id="tbRemoveOwner" mnemonicParsing="false" GridPane.columnIndex="3">
+                                 <HBox.margin>
+                                    <Insets left="10.0" top="5.0" />
+                                 </HBox.margin></Button>
+                               <Button fx:id="tbEditOwner" mnemonicParsing="false" GridPane.columnIndex="4">
+                                 <HBox.margin>
+                                    <Insets left="10.0" top="5.0" />
+                                 </HBox.margin></Button>
+                           </children></HBox>
+                        <TableView prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="1">
+                          <columns>
+                            <TableColumn prefWidth="41.0" text="ID" />
+                            <TableColumn prefWidth="148.0" text="Ime i prezime" />
+                              <TableColumn prefWidth="103.0" text="JMBG" />
+                          </columns>
+                        </TableView>
+                     </children>
+                  </GridPane>
+            </content>
+          </Tab>
+          <Tab fx:id="vehiclesTab" text="Vozila">
+              <content>
+                  <GridPane>
+                      <columnConstraints>
+                          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                      </columnConstraints>
+                      <rowConstraints>
+                          <RowConstraints maxHeight="127.0" minHeight="5.0" prefHeight="34.0" vgrow="SOMETIMES" />
+                          <RowConstraints maxHeight="317.0" minHeight="10.0" prefHeight="312.0" vgrow="SOMETIMES" />
+                      </rowConstraints>
+                      <children>
+                          <HBox prefHeight="100.0" prefWidth="200.0">
+                              <children>
+                                  <Label text="Pretraga:">
+                                      <HBox.margin>
+                                          <Insets top="5.0" />
+                                      </HBox.margin></Label>
+                                  <TextField GridPane.columnIndex="1">
+                                      <HBox.margin>
+                                          <Insets left="10.0" top="5.0" />
+                                      </HBox.margin></TextField>
+                                  <Button fx:id="tbAddVehicle" mnemonicParsing="false" GridPane.columnIndex="2">
+                                      <HBox.margin>
+                                          <Insets left="10.0" top="5.0" />
+                                      </HBox.margin></Button>
+                                  <Button fx:id="tbRemoveVehicle" mnemonicParsing="false" GridPane.columnIndex="3">
+                                      <HBox.margin>
+                                          <Insets left="10.0" top="5.0" />
+                                      </HBox.margin></Button>
+                                  <Button fx:id="tbEditVehicle" mnemonicParsing="false" GridPane.columnIndex="4">
+                                      <HBox.margin>
+                                          <Insets left="10.0" top="5.0" />
+                                      </HBox.margin></Button>
+                              </children></HBox>
+                          <TableView prefHeight="200.0" prefWidth="200.0" GridPane.rowIndex="1">
+                              <columns>
+                                  <TableColumn prefWidth="41.0" text="ID" />
+                                  <TableColumn prefWidth="148.0" text="Ime i prezime" />
+                                  <TableColumn prefWidth="103.0" text="JMBG" />
+                              </columns>
+                          </TableView>
+                      </children>
+                  </GridPane>
+              </content>
+          </Tab>
+        </tabs>
+      </TabPane>
+   </center>
+</BorderPane>

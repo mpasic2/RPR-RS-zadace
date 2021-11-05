@@ -1,0 +1,15 @@
+.poljeIspravno {
+   -fx-control-inner-background: greenyellow;
+}
+.poljeNijeIspravno {
+   -fx-control-inner-background: lightpink;
+}
+#btnDodaj {
+   -fx-graphic: url("/img/dodaj.png");
+}
+#btnObrisi {
+   -fx-graphic: url("/img/obrisi.png");
+}
+#btnKraj {
+   -fx-graphic: url("/img/kraj.png");
+}

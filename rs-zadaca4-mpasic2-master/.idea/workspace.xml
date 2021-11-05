@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dd85a9d-6d92-42b2-9a59-a22b147f46c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library.db" beforeDir="false" afterPath="$PROJECT_DIR$/library.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/fxml/editbook.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/fxml/editbook.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca4/LibraryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca4/LibraryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca4/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca4/MainController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bnZ2QEkWD8VL8cVLJ668aHBCZd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-13.0.2/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ba.unsa.etf.rs.zadaca4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca4.Main" />
+      <module name="rs-zadaca4" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-13.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditControllerTestEdit and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca4" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="ba.unsa.etf.rs.zadaca4.EditControllerTestEdit" />
+        <pattern testClass="ba.unsa.etf.rs.zadaca4.EditControllerTestAdd" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditControllerTestEdit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca4" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca4.EditControllerTestEdit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca4" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca4.MainControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainControllerTest.testChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca4" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca4.MainControllerTest" />
+      <option name="METHOD_NAME" value="testChange(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ba.unsa.etf.rs.zadaca4 in rs-zadaca4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca4" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.MainControllerTest" />
+      <item itemvalue="JUnit.ba.unsa.etf.rs.zadaca4 in rs-zadaca4" />
+      <item itemvalue="JUnit.EditControllerTestEdit and 1 more" />
+      <item itemvalue="JUnit.EditControllerTestEdit" />
+      <item itemvalue="JUnit.MainControllerTest.testChange" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ba.unsa.etf.rs.zadaca4 in rs-zadaca4" />
+        <item itemvalue="JUnit.MainControllerTest.testChange" />
+        <item itemvalue="JUnit.MainControllerTest" />
+        <item itemvalue="JUnit.EditControllerTestEdit" />
+        <item itemvalue="JUnit.EditControllerTestEdit and 1 more" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dd85a9d-6d92-42b2-9a59-a22b147f46c4" name="Default Changelist" comment="" />
+      <created>1589269610564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589269610564</updated>
+      <workItem from="1590016411402" duration="41200000" />
+      <workItem from="1590536485226" duration="37000" />
+      <workItem from="1590536851469" duration="1197000" />
+      <workItem from="1590603753660" duration="12000" />
+      <workItem from="1590603785267" duration="12783000" />
+      <workItem from="1590619999386" duration="335000" />
+      <workItem from="1590698903160" duration="4565000" />
+    </task>
+    <task id="LOCAL-00001" summary="napravljena klasa Book - prolaze svi testovi 6/6">
+      <created>1590033126915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590033126915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="uradjena klasa LibraryDAO - prolaze svi testovi 12/12">
+      <created>1590244190328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590244190328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="uradjen korisnicki interfejs">
+      <created>1590453562606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590453562606</updated>
+    </task>
+    <task id="LOCAL-00004" summary="doradjen korisnicki interfejs i napravljen novi prozor">
+      <created>1590612149604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590612149604</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dodate metode za dodavanje i editovanje knjiga">
+      <created>1590620297469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590620297469</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pada 5 testova od kojih mi 1 nije jasan">
+      <created>1590700634680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590700634680</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="napravljena klasa Book - prolaze svi testovi 6/6" />
+    <MESSAGE value="uradjena klasa LibraryDAO - prolaze svi testovi 12/12" />
+    <MESSAGE value="uradjen korisnicki interfejs" />
+    <MESSAGE value="doradjen korisnicki interfejs i napravljen novi prozor" />
+    <MESSAGE value="dodate metode za dodavanje i editovanje knjiga" />
+    <MESSAGE value="pada 5 testova od kojih mi 1 nije jasan" />
+    <option name="LAST_COMMIT_MESSAGE" value="pada 5 testova od kojih mi 1 nije jasan" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1590191499696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590191499696" />
+    <state x="274" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590450039362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590450039362" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1590608765860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590608765860" />
+    <state x="584" y="0" key="CommitChangelistDialog2" timestamp="1590781863243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="584" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590781863243" />
+    <state x="401" y="112" key="FileChooserDialogImpl" timestamp="1590242328431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="401" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590242328431" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1590782735162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590782735162" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1590782735162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590782735162" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1590782735162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590782735162" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1590782735162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590782735162" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1590016942119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1590016942119" />
+    <state x="254" y="0" width="1032" height="848" key="SettingsEditor" timestamp="1590534456903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1590534456903" />
+    <state x="298" y="20" width="1032" height="848" key="SettingsEditor/0.0.1600.870@0.0.1600.870" timestamp="1589269790380" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1590536868422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590536868422" />
+    <state x="478" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590534449958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="478" y="256" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1590534449958" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+#tbAdd {
+    -fx-graphic: url("/img/file.png");
+}
+#tbChange {
+    -fx-graphic: url("/img/edit.png");
+}
+#tbDelete {
+    -fx-graphic: url("/img/exit.png");
+}
+.poljeIspravno {
+    -fx-control-inner-background: greenyellow;
+}
+.poljeNijeIspravno {
+    -fx-control-inner-background: lightpink;
+}

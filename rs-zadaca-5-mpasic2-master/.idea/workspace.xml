@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db735a2-37e1-42d2-8740-fcb9a2c09968" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca5/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rs/zadaca5/OwnerController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cY77OeuGtQawWDxdhwLCg177xv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-13.0.2/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.OwnerControllerTest.testOk">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.Main" />
+      <module name="rs-zadaca5" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-13.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.OwnerControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest.testCancel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.OwnerControllerTest" />
+      <option name="METHOD_NAME" value="testCancel(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest.testDateValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.OwnerControllerTest" />
+      <option name="METHOD_NAME" value="testDateValidation(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest.testNameValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.OwnerControllerTest" />
+      <option name="METHOD_NAME" value="testNameValidation(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OwnerControllerTest.testOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rs-zadaca5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rs.zadaca5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rs.zadaca5" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rs.zadaca5.OwnerControllerTest" />
+      <option name="METHOD_NAME" value="testOk(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.OwnerControllerTest" />
+      <item itemvalue="JUnit.OwnerControllerTest.testCancel" />
+      <item itemvalue="JUnit.OwnerControllerTest.testOk" />
+      <item itemvalue="JUnit.OwnerControllerTest.testNameValidation" />
+      <item itemvalue="JUnit.OwnerControllerTest.testDateValidation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OwnerControllerTest.testOk" />
+        <item itemvalue="JUnit.OwnerControllerTest.testDateValidation" />
+        <item itemvalue="JUnit.OwnerControllerTest.testNameValidation" />
+        <item itemvalue="JUnit.OwnerControllerTest.testCancel" />
+        <item itemvalue="JUnit.OwnerControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db735a2-37e1-42d2-8740-fcb9a2c09968" name="Default Changelist" comment="" />
+      <created>1590693504993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590693504993</updated>
+      <workItem from="1592175196251" duration="42849000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial import">
+      <created>1590693719082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590693719082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Popravljam datum da bude u budućnosti">
+      <created>1590695011261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590695011261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Par neprevedenih imena">
+      <created>1590696711546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590696711546</updated>
+    </task>
+    <task id="LOCAL-00004" summary="naoravljene sve klase sa potrebnim konstruktorima, getterima i setterima">
+      <created>1592177223959</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592177223959</updated>
+    </task>
+    <task id="LOCAL-00005" summary="napravljen dio korisnickog interfejsa">
+      <created>1592179291478</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592179291478</updated>
+    </task>
+    <task id="LOCAL-00006" summary="kreirane get metode">
+      <created>1592265801908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592265801908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="uradjena VehicleDAOBase klasa sa svim metodama">
+      <created>1592322207649</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592322207649</updated>
+    </task>
+    <task id="LOCAL-00008" summary="napravljen korisnicki interfejs(owner.fxml i vehicle.fxml)">
+      <created>1592324546270</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592324546270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="napravljen OwnerController ali iz nekog razloga ne prolaze testovi">
+      <created>1592341357524</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592341357524</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial import" />
+    <MESSAGE value="Popravljam datum da bude u budućnosti" />
+    <MESSAGE value="Par neprevedenih imena" />
+    <MESSAGE value="naoravljene sve klase sa potrebnim konstruktorima, getterima i setterima" />
+    <MESSAGE value="napravljen dio korisnickog interfejsa" />
+    <MESSAGE value="kreirane get metode" />
+    <MESSAGE value="uradjena VehicleDAOBase klasa sa svim metodama" />
+    <MESSAGE value="napravljen korisnicki interfejs(owner.fxml i vehicle.fxml)" />
+    <MESSAGE value="napravljen OwnerController ali iz nekog razloga ne prolaze testovi" />
+    <option name="LAST_COMMIT_MESSAGE" value="napravljen OwnerController ali iz nekog razloga ne prolaze testovi" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1592177423615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1592177423615" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592178939422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592178939422" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1592340566177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592340566177" />
+    <state x="215" y="0" width="809" height="906" key="CommitChangelistDialog2" timestamp="1592341352224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592341352224" />
+    <state x="2155" y="81" width="809" height="906" key="CommitChangelistDialog2/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590696711232" />
+    <state x="452" y="180" width="588" height="476" key="FileChooserDialogImpl" timestamp="1592175964439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="180" width="588" height="476" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592175964439" />
+    <state x="2236" y="267" width="432" height="487" key="FileChooserDialogImpl/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590771879063" />
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1592343569818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592343569818" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1592343569818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592343569818" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1592343569818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592343569818" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1592343569818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592343569818" />
+    <state x="316" y="0" key="SettingsEditor" timestamp="1592175968195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="316" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592175968195" />
+    <state x="2044" y="101" key="SettingsEditor/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590693656819" />
+    <state x="2156" y="259" key="Vcs.Push.Dialog.v2" timestamp="1590696718462">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2156" y="259" key="Vcs.Push.Dialog.v2/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590696718462" />
+    <state x="2365" y="435" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590693727709">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2365" y="435" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.900/1600.0.1920.1080@1600.0.1920.1080" timestamp="1590693727709" />
+  </component>
+</project>

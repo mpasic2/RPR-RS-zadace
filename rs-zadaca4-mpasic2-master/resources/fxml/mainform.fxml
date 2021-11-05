@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+    <stylesheets>
+        <URL value="@/css/book.css" />
+    </stylesheets>
+   <top>
+      <VBox prefHeight="63.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <MenuBar>
+              <menus>
+                <Menu mnemonicParsing="true" text="_File">
+                  <items>
+                        <MenuItem mnemonicParsing="true" text="_Open" />
+                    <MenuItem mnemonicParsing="true" text="_Save" />
+                        <MenuItem mnemonicParsing="true" text="_Print" onAction="#ispisiKnjige"/>
+                        <MenuItem mnemonicParsing="true" text="_Exit" onAction="#izlazakIzProzora"/>
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="true" text="Edit">
+                  <items>
+                    <MenuItem mnemonicParsing="true" text="Add" onAction="#dugmeAdd"/>
+                        <MenuItem mnemonicParsing="true" text="Change" onAction="#dugmeChange"/>
+                        <MenuItem mnemonicParsing="true" onAction="#dugmeDelete" text="Delete" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="true" text="_Help">
+                  <items>
+                    <MenuItem mnemonicParsing="true" text="_About" onAction="#otvoriProzor"/>
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+            <ToolBar prefHeight="40.0" prefWidth="200.0">
+              <items>
+                  <Button fx:id="tbAdd" mnemonicParsing="false" onAction="#dugmeAdd"/>
+                <Button fx:id="tbChange" mnemonicParsing="false" onAction="#dugmeChange" />
+                  <Button fx:id="tbDelete" mnemonicParsing="false" onAction="#dugmeDelete" />
+              </items>
+            </ToolBar>
+         </children>
+      </VBox>
+   </top>
+   <center>
+      <TableView fx:id="tblBooks" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="colAuthor" prefWidth="130.0" text="Author" />
+          <TableColumn fx:id="colTitle" prefWidth="280.0" text="Title" />
+            <TableColumn fx:id="colPublishDate" prefWidth="130.0" text="Publish date" />
+        </columns>
+      </TableView>
+   </center>
+   <bottom>
+      <HBox prefHeight="21.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="statusMsg" text="Program started." />
+         </children>
+      </HBox>
+   </bottom>
+</BorderPane>
